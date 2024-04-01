@@ -1,5 +1,5 @@
-- 🐝 Hello, I’m Tia! I help indie games with marketing and PR. 
-- I'm on GitHub to contact people! My so-called coding experience starts and ends with Neopets HTML...
+- 🐝 Hello, I’m Tia! I help game developers with their marketing and PR. 
+- I'm on GitHub to connect with folks.
 - 📫 You can reach me at tiapixel@gmail.com 
 
 <!---
